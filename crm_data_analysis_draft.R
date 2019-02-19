@@ -1,4 +1,6 @@
-
+#Author: B Ntsiba
+#Version 1.0
+#Date: Mai 2017
 
 # load required libraries
 library(caret)
